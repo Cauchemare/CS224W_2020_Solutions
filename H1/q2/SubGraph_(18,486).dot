@@ -1,0 +1,7 @@
+graph G {
+  graph [splines=true overlap=false]
+  node  [shape=ellipse, width=0.3, height=0.3]
+  487 [label="487"];
+  486 [label="486"];
+  486 -- 487;
+}
